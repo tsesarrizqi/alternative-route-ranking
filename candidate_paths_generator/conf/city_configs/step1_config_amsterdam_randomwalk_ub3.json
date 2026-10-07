@@ -1,0 +1,28 @@
+﻿{
+  "edges_file": "conf/amsterdam_converted_edges.txt",
+  "coordinates_file": "conf/amsterdam_converted_coordinates.txt",
+  "tk": 10,
+  "ub": 3,
+  "pen": 1.4,
+  "sim": 0.7,
+  "dm": 4,
+  "total_pairs": 10000,
+  "min_distance": 1000,
+  "max_distance": 11000,
+  "min_edges": 3,
+  "max_edges": 200,
+  "min_path_alternatives": 5,
+  "num_threads": 8,
+  "distance_buckets": [
+    {"min": 1000,  "max": 2000},
+    {"min": 2000,  "max": 3000},
+    {"min": 3000,  "max": 4000},
+    {"min": 4000,  "max": 5000},
+    {"min": 5000,  "max": 6000},
+    {"min": 6000,  "max": 7000},
+    {"min": 7000,  "max": 8000},
+    {"min": 8000,  "max": 9000},
+    {"min": 9000,  "max": 10000},
+    {"min": 10000, "max": 11000}
+  ]
+}

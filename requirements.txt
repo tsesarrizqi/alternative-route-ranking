@@ -1,0 +1,11 @@
+torch==2.7.1
+torch-geometric==2.6.1
+numpy==2.1.2
+pandas==2.3.0
+scipy==1.15.2
+scikit-learn==1.7.0
+matplotlib==3.10.3
+networkx==3.3
+seaborn==0.13.2
+tqdm==4.67.1
+osmnx>=2.0,<3.0
